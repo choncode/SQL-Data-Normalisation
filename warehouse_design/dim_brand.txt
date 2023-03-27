@@ -1,0 +1,56 @@
+You are now connected to database "topmodelsql" as user "chonlee".
+DROP TABLE
+CREATE TABLE
+INSERT 0 14
+ brand_id |             brand              
+----------+--------------------------------
+        1 | Nike, Adidas, Reebok
+        2 | Ikea, Wayfair, Amazon
+        3 | Chanel, Dior, Stella McCartney
+        4 | Oricle, Marks and Spencer
+        5 | Listo Burritos
+        6 | United Utilities
+        7 | Louboutin, H&M
+        8 | Harrods, HSBC
+        9 | Pategonia, Buff, Salomon
+       10 | Aldi, Poundland
+       11 | Charities
+       12 | Adidas
+       13 | Marvel Studios
+       14 | Ebay, Vinted, Instagram
+(14 rows)
+
+DROP TABLE
+CREATE TABLE
+INSERT 0 27
+ brand_id |       brand       
+----------+-------------------
+        1 | Amazon
+        2 | Harrods
+        3 | Ikea
+        4 | Marvel Studios
+        5 | Wayfair
+        6 | HSBC
+        7 | Dior
+        8 | Instagram
+        9 | Stella McCartney
+       10 | Chanel
+       11 | H&M
+       12 | Ebay
+       13 | Buff
+       14 | Reebok
+       15 | Marks and Spencer
+       16 | Vinted
+       17 | Aldi
+       18 | Oricle
+       19 | Adidas
+       20 | Listo Burritos
+       21 | Charities
+       22 | Salomon
+       23 | Louboutin
+       24 | Pategonia
+       25 | United Utilities
+       26 | Poundland
+       27 | Nike
+(27 rows)
+
